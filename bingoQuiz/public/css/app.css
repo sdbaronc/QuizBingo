@@ -1,0 +1,32 @@
+.carton {
+    background-color: yellow;
+    width: 350px;
+    display: grid;
+    grid-template-columns: 70px 70px 70px 70px 70px;
+    grid-template-rows: 80px 50px 50px 50px 50px 50px;
+    text-align: center;
+    border: solid brown 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+}
+
+h3 {
+    color: brown;
+    font-size: 60px;
+
+}
+
+.num {
+    background-color: white;
+    border: solid yellow 5px;
+
+}
+
+p {
+    margin: 10px;
+}
+
+.secu {
+    width: 500px;
+    border: solid 1px
+}
